@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.saieesh.dev
+  baseUrl: saieeshb.github.io/newquartz
   ignorePatterns:
     - private
     - templates
